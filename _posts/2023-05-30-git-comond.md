@@ -1,9 +1,9 @@
 ---
 layout: post
 title: git命令的说明
-date: 2023-03-24
+date: 2023-05-30
 author: Zhaoyl
-tags: [sample, document]
+tags: [sample]
 comments: true
 ---
 git是一个分布式版本控制系统，可以高效地进行项目版本管理。本文详细解释git的基本原理、工作流程和常用命令，并阐述实际开发中，如何使用git规范的对项目进行版本控制和管理。

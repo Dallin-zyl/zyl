@@ -8,7 +8,7 @@
 
 # 描述/签名
 name: zyl
-description: 一个博客
+description: 行动是通往知识的唯一道路！
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -18,13 +18,13 @@ url:
 # 那么就写成 "/repository-name"
 baseurl: /zyl
 
-
 #
+
 # 下面的设定都是可选的
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: images/xx_logo.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png

@@ -2,7 +2,7 @@
 layout: post
 title: Markdown语法简介
 date: 2023-04-16
-Author: Zhaoyl
+author: Zhaoyl
 tags: [sample, markdown]
 comments: true
 toc: true

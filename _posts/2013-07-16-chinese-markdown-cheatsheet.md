@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Markdown语法简介
-date: 2013-07-16
-Author: Shengbin 
+date: 2023-04-16
+Author: Zhaoyl
 tags: [sample, markdown]
 comments: true
 toc: true
